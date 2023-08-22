@@ -1,0 +1,31 @@
+{
+    "name": "ShikiSelfSources",
+    "identifier": "self.shiki.sources",
+    "sourceURL": "https://randomblock1.github.io/randomsource/apps.json",
+    "apps": [
+        {
+            "name": "EhPanda",
+            "bundleIdentifier": "app.ehpanda",
+            "developerName": "EhPanda Team",
+            "subtitle": "Unleash your passion for E-Hentai with EhPanda.",
+            "localizedDescription": "EhPanda is an unofficial app for iOS and iPadOS that allows users to access and explore adult manga and doujinshi from E-Hentai.\nWith a user-friendly interface, powerful search features, and a vast collection of content, it offers a personalized library and an immersive reading experience.\nNote: EhPanda is not affiliated with or endorsed by E-Hentai.",
+            "iconURL": "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/appicon/appicon-512.png",
+            "tintColor": "289979",
+            "screenshotURLs": [
+                "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Home_EN_Light.png",
+                "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/SlideMenu_EN_Light.png",
+                "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Detail_EN_Light.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.7.1",
+                    "date": "2023-06-03T11:11:28",
+                    "localizedDescription": "1. fix: App not responding when accessing a gallery recursively.\n2. fix: App lock gets bypassed under some circumstances.",
+                    "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.1/EhPanda.ipa",
+                    "size": 6581486,
+                    "minOSVersion": "16.0"
+                }
+            ]
+        }
+    ]
+}
