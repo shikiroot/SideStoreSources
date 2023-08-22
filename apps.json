@@ -1,7 +1,7 @@
 {
     "name": "ShikiSelfSources",
     "identifier": "self.shiki.sources",
-    "sourceURL": "https://randomblock1.github.io/randomsource/apps.json",
+    "sourceURL": "https://raw.githubusercontent.com/shikiroot/SideStoreSources/master/apps.json",
     "apps": [
         {
             "name": "EhPanda",
