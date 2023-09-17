@@ -11,10 +11,10 @@
             "localizedDescription": "An unofficial E-Hentai App for iOS built with SwiftUI & TCA.",
             "iconURL": "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/appicon/appicon-512.png",
             "tintColor": "289979",
-            "version": "2.7.1",
+            "version": "2.7.2",
             "versionDate": "2023-06-03T00:00:00",
-            "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.1/EhPanda.ipa",
-            "size": 6581486,
+            "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.2/EhPanda.ipa",
+            "size": 10000000,
             "minOSVersion": "16.0",
             "screenshotURLs": [
                 "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Home_EN_Light.png",
@@ -30,34 +30,15 @@
             "localizedDescription": "Unofficial Iwara Flutter Client",
             "iconURL": "https://github.com/iwrqk/iwrqk/raw/master/assets/app_icon.png",
             "tintColor": "289979",
-            "version": "1.2.2",
+            "version": "1.2.4",
             "versionDate": "2023-08-14T00:00:00",
-            "downloadURL": "https://github.com/iwrqk/iwrqk/releases/download/v1.2.2/iwrqk_1.2.2.ipa",
-            "size": 10156223,
+            "downloadURL": "https://github.com/iwrqk/iwrqk/releases/download/v1.2.4/iwrqk_1.2.4.ipa",
+            "size": 10000000,
             "minOSVersion": "13.0",
             "screenshotURLs": [
                 "https://github.com/iwrqk/iwrqk/raw/master/doc/1.png",
                 "https://github.com/iwrqk/iwrqk/raw/master/doc/2.png",
                 "https://github.com/iwrqk/iwrqk/raw/master/doc/3.png"
-            ]
-        },
-        {
-            "name": "pikapika",
-            "bundleIdentifier": "opensource.pikapika",
-            "developerName": "niuhuan",
-            "subtitle": "美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。",
-            "localizedDescription": "美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。",
-            "iconURL": "https://github.com/niuhuan/pikapika/raw/master/images/ic.png",
-            "tintColor": "289979",
-            "version": "1.7.6",
-            "versionDate": "2023-07-10T00:00:00",
-            "downloadURL": "https://github.com/niuhuan/pikapika/releases/download/v1.7.6/pikapika-v1.7.6-build1_flutter-3.7.3-ios-nosign.ipa",
-            "size": 16453597,
-            "minOSVersion": "11.0",
-            "screenshotURLs": [
-                "https://github.com/niuhuan/pikapika/raw/master/images/reader.png",
-                "https://github.com/niuhuan/pikapika/raw/master/images/categories_screen.png",
-                "https://github.com/niuhuan/pikapika/raw/master/images/comic_list.png"
             ]
         }
     ]
