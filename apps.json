@@ -32,13 +32,32 @@
             "tintColor": "289979",
             "version": "1.2.4",
             "versionDate": "2023-08-14T00:00:00",
-            "downloadURL": "https://github.com/iwrqk/iwrqk/releases/download/v1.2.4/iwrqk_1.2.4.ipa",
+            "downloadURL": "https://github.com/iwrqk/iwrqk/releases/download/v1.2.5/iwrqk_1.2.5.ipa",
             "size": 10000000,
             "minOSVersion": "13.0",
             "screenshotURLs": [
                 "https://github.com/iwrqk/iwrqk/raw/master/doc/1.png",
                 "https://github.com/iwrqk/iwrqk/raw/master/doc/2.png",
                 "https://github.com/iwrqk/iwrqk/raw/master/doc/3.png"
+            ]
+        },
+        {
+            "name": "EMHenTai",
+            "bundleIdentifier": "com.EMHenTai.003",
+            "developerName": "EMHenTai",
+            "subtitle": "Unofficial E-hentai Swift Client",
+            "localizedDescription": "Unofficial E-hentai Swift Client",
+            "iconURL": "https://github.com/shikiroot/EMHentai/raw/main/EMHenTai/Support/Assets.xcassets/AppIcon.appiconset/TsurugiHina-1024.png",
+            "tintColor": "289979",
+            "version": "2023.298",
+            "versionDate": "2023-10-24T00:00:00",
+            "downloadURL": "https://github.com/shikiroot/EMHentai/releases/download/v2023.298/EMHenTai.ipa",
+            "size": 10000000,
+            "minOSVersion": "14.0",
+            "screenshotURLs": [
+                "https://github.com/shikiroot/EMHentai/raw/main/Screenshots/IMG_1136.PNG",
+                "https://github.com/shikiroot/EMHentai/raw/main/Screenshots/IMG_1137.PNG",
+                "https://github.com/shikiroot/EMHentai/raw/main/Screenshots/IMG_1138.PNG"
             ]
         }
     ]
