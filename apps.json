@@ -30,9 +30,9 @@
             "localizedDescription": "Unofficial Iwara Flutter Client",
             "iconURL": "https://github.com/iwrqk/iwrqk/raw/master/assets/app_icon.png",
             "tintColor": "289979",
-            "version": "1.2.5",
-            "versionDate": "2023-09-14T00:00:00",
-            "downloadURL": "https://github.com/iwrqk/iwrqk/releases/download/v1.2.5/iwrqk_1.2.5.ipa",
+            "version": "1.2.6",
+            "versionDate": "2023-10-14T00:00:00",
+            "downloadURL": "https://github.com/iwrqk/iwrqk/releases/download/v1.2.4/iwrqk_1.2.4.ipa",
             "size": 10000000,
             "minOSVersion": "13.0",
             "screenshotURLs": [
