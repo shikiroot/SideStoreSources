@@ -49,9 +49,9 @@
             "localizedDescription": "Unofficial E-hentai Swift Client",
             "iconURL": "https://github.com/shikiroot/EMHentai/raw/main/EMHenTai/Support/Assets.xcassets/AppIcon.appiconset/TsurugiHina-1024.png",
             "tintColor": "289979",
-            "version": "2024.070",
-            "versionDate": "2024-03-04T00:00:00",
-            "downloadURL": "https://github.com/shikiroot/EMHentai/releases/download/v2024.070/EMHenTai.ipa",
+            "version": "2024.080",
+            "versionDate": "2024-03-20T00:00:00",
+            "downloadURL": "https://github.com/shikiroot/EMHentai/releases/download/v2024.080/EMHenTai.ipa",
             "size": 20000000,
             "minOSVersion": "14.0",
             "screenshotURLs": [
