@@ -3,44 +3,44 @@
     "identifier": "self.shiki.sources",
     "sourceURL": "https://raw.githubusercontent.com/shikiroot/SideStoreSources/master/apps.json",
     "apps": [
-        {
-            "name": "EhPanda",
-            "bundleIdentifier": "app.ehpanda",
-            "developerName": "EhPanda-Team",
-            "subtitle": "An unofficial E-Hentai App for iOS built with SwiftUI & TCA.",
-            "localizedDescription": "An unofficial E-Hentai App for iOS built with SwiftUI & TCA.",
-            "iconURL": "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/appicon/appicon-512.png",
-            "tintColor": "289979",
-            "version": "2.7.4",
-            "versionDate": "2023-11-03T00:00:00",
-            "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.4/EhPanda.ipa",
-            "size": 20000000,
-            "minOSVersion": "16.0",
-            "screenshotURLs": [
-                "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Home_EN_Light.png",
-                "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/SlideMenu_EN_Light.png",
-                "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Detail_EN_Light.png"
-            ]
-        },
-        {
-            "name": "iwrqk",
-            "bundleIdentifier": "com.iwrqk.app",
-            "developerName": "iwrqk",
-            "subtitle": "Unofficial Iwara Flutter Client",
-            "localizedDescription": "Unofficial Iwara Flutter Client",
-            "iconURL": "https://github.com/iwrqk/iwrqk/raw/master/assets/launcher/icon.png",
-            "tintColor": "289979",
-            "version": "2.0.0",
-            "versionDate": "2024-03-10T00:00:00",
-            "downloadURL": "https://github.com/iwrqk/iwrqk/releases/download/v2.0.0+16/iwrqk-2.0.0+16.ipa",
-            "size": 20000000,
-            "minOSVersion": "13.0",
-            "screenshotURLs": [
-                "https://github.com/iwrqk/iwrqk/raw/master/doc/1.png",
-                "https://github.com/iwrqk/iwrqk/raw/master/doc/2.png",
-                "https://github.com/iwrqk/iwrqk/raw/master/doc/3.png"
-            ]
-        },
+        // {
+        //     "name": "EhPanda",
+        //     "bundleIdentifier": "app.ehpanda",
+        //     "developerName": "EhPanda-Team",
+        //     "subtitle": "An unofficial E-Hentai App for iOS built with SwiftUI & TCA.",
+        //     "localizedDescription": "An unofficial E-Hentai App for iOS built with SwiftUI & TCA.",
+        //     "iconURL": "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/appicon/appicon-512.png",
+        //     "tintColor": "289979",
+        //     "version": "2.7.4",
+        //     "versionDate": "2023-11-03T00:00:00",
+        //     "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.4/EhPanda.ipa",
+        //     "size": 20000000,
+        //     "minOSVersion": "16.0",
+        //     "screenshotURLs": [
+        //         "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Home_EN_Light.png",
+        //         "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/SlideMenu_EN_Light.png",
+        //         "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Detail_EN_Light.png"
+        //     ]
+        // },
+        // {
+        //     "name": "iwrqk",
+        //     "bundleIdentifier": "com.iwrqk.app",
+        //     "developerName": "iwrqk",
+        //     "subtitle": "Unofficial Iwara Flutter Client",
+        //     "localizedDescription": "Unofficial Iwara Flutter Client",
+        //     "iconURL": "https://github.com/iwrqk/iwrqk/raw/master/assets/launcher/icon.png",
+        //     "tintColor": "289979",
+        //     "version": "2.0.0",
+        //     "versionDate": "2024-03-10T00:00:00",
+        //     "downloadURL": "https://github.com/iwrqk/iwrqk/releases/download/v2.0.0+16/iwrqk-2.0.0+16.ipa",
+        //     "size": 20000000,
+        //     "minOSVersion": "13.0",
+        //     "screenshotURLs": [
+        //         "https://github.com/iwrqk/iwrqk/raw/master/doc/1.png",
+        //         "https://github.com/iwrqk/iwrqk/raw/master/doc/2.png",
+        //         "https://github.com/iwrqk/iwrqk/raw/master/doc/3.png"
+        //     ]
+        // },
         {
             "name": "EMHenTai",
             "bundleIdentifier": "com.EMHenTai.003",
@@ -49,9 +49,9 @@
             "localizedDescription": "Unofficial E-hentai Swift Client",
             "iconURL": "https://github.com/shikiroot/EMHentai/raw/main/EMHenTai/Support/Assets.xcassets/AppIcon.appiconset/TsurugiHina-1024.png",
             "tintColor": "289979",
-            "version": "2024.082",
-            "versionDate": "2024-03-22T00:00:00",
-            "downloadURL": "https://github.com/shikiroot/EMHentai/releases/download/v2024.082/EMHenTai.ipa",
+            "version": "2024.2024.114",
+            "versionDate": "2024-04-20T00:00:00",
+            "downloadURL": "https://github.com/shikiroot/EMHentai/releases/download/v2024.114/EMHenTai.ipa",
             "size": 20000000,
             "minOSVersion": "14.0",
             "screenshotURLs": [
